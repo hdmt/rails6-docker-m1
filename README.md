@@ -1,7 +1,7 @@
 # 実行環境
 
-docker desktop 4.5.0
-mac OS 12.2.1 (M1チップ)
+- docker desktop 4.5.0
+- mac OS 12.2.1 (M1チップ)
 
 # 構築手順
 
